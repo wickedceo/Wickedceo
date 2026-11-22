@@ -1,110 +1,86 @@
+ <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:030303,50:260808,100:8B101D&height=190&section=header&text=WICKEDCEO&fontSize=58&fontColor=F2EAF0&fontAlignY=45&animation=fadeIn&stroke=DC2626&strokeWidth=1" width="100%" />
 
-<div align="center">
+SOFTWARE DEVELOPER · BUILDING INDEPENDENTLY
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020204,35:100B18,65:450909,100:DC2626&height=210&section=header&text=WICKEDCEO&fontSize=65&fontColor=F5EFFF&fontAlignY=45&animation=fadeIn&stroke=FF303F&strokeWidth=2" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1200&color=DC6673&center=true&vCenter=true&width=480&lines=I+like+building+things.;Learning+by+building.;Breaking.+Fixing.+Improving.;Always+working+on+something." />
 
-**✦ SOFTWARE DEVELOPER · INDEPENDENT BUILDER ✦**
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=900&color=FF5364&center=true&vCenter=true&width=550&lines=Building+digital+experiences.;Engineering+ideas+into+reality.;Exploring+technology.+Creating+solutions.;Think.+Build.+Transcend." alt="Developer introduction" />
-
-[GitHub](https://github.com/wickedceo) · [Repositories](https://github.com/wickedceo?tab=repositories)
+GitHub · Repositories
 
 </div>
 
----
+⸻
 
-### ◈ ABOUT
+A LITTLE ABOUT ME
 
-Independent software developer focused on building digital products, exploring modern technologies, and transforming ideas into functional software.
+I’m a developer who enjoys figuring out how things work and turning ideas into actual software.
 
-Driven by curiosity, experimentation, and the pursuit of better engineering.
+Most of my time goes into building web applications, experimenting with technologies, solving problems and learning something new along the way.
 
-**Think independently. Build relentlessly. Create without limits.**
+I care about how things work behind the scenes just as much as how they look on the screen.
 
-### ◈ TECHNOLOGY STACK
+Currently building, learning and improving one project at a time.
 
-**Languages & Development**
+WHAT I WORK WITH
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,react,nodejs,express,postgres&theme=dark" alt="Development technologies" />
-
+<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,react,postgres,html,css,git,github&theme=dark" />
 </div>
 
-**Tools & Workflow**
+THINGS I’VE BEEN BUILDING
+
+Pulsewatch
+
+A website and API uptime monitoring platform. Built to monitor services, track availability and keep an eye on website performance.
+
+JavaScript Node.js Express PostgreSQL
+
+DevBoard
+
+A developer project management platform.
+
+HelpDesk-AI
+
+An AI-assisted customer support and ticket management platform.
+
+React TypeScript
+
+authflow
+
+A modern authentication system built around secure authentication workflows.
+
+React TypeScript
+
+WCKD
+
+Another project in the WICKEDCEO collection.
+
+Explore all my repositories →
+
+⸻
+
+GITHUB ACTIVITY
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Development tools" />
-
-</div>
-
-### ◈ PROJECT ARCHIVE
-
-<!-- PROJECTS:START -->
-- [**pulsewatch**](https://github.com/wickedceo/pulsewatch) — A full-stack website and API uptime monitoring platform built with JavaScript, Node.js, Express and PostgreSQL.
-  `JavaScript` · Updated 2026-11-22
-
-- [**WCKD**](https://github.com/wickedceo/WCKD)
-  `Software` · Updated 2026-11-21
-
-- [**Wickedceo**](https://github.com/wickedceo/Wickedceo)
-  `Software` · Updated 2026-11-21
-
-- [**DevBoard**](https://github.com/wickedceo/DevBoard) — Modern developer project management platform
-  `Software` · Updated 2026-11-11
-
-- [**HelpDesk-AI**](https://github.com/wickedceo/HelpDesk-AI) — An AI-assisted customer support and ticket management platform built with React and TypeScript.
-  `TypeScript` · Updated 2026-11-10
-
-- [**authflow**](https://github.com/wickedceo/authflow) — A modern authentication system built with React, TypeScript and secure authentication workflows.
-  `TypeScript` · Updated 2026-11-09
-
-[Explore all projects →](https://github.com/wickedceo?tab=repositories)
-<!-- PROJECTS:END -->
-
-<div align="center">
-
-[**EXPLORE ALL PROJECTS →**](https://github.com/wickedceo?tab=repositories)
-
-</div>
-
----
-
-### ◈ GITHUB ANALYTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=wickedceo&show_icons=true&hide_border=true&bg_color=09070D&title_color=FF5364&icon_color=FF5364&text_color=E6E1ED&rank_icon=github" alt="GitHub statistics" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wickedceo&layout=compact&hide_border=true&bg_color=09070D&title_color=FF5364&text_color=E6E1ED" alt="Top programming languages" />
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=wickedceo&show_icons=true&hide_border=true&bg_color=09070D&title_color=DC6673&icon_color=DC6673&text_color=E6E1ED&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wickedceo&layout=compact&hide_border=true&bg_color=09070D&title_color=DC6673&text_color=E6E1ED" />
 <br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=wickedceo&theme=dark&hide_border=true&background=09070D&ring=FF5364&fire=FF303F&currStreakLabel=FF5364" alt="GitHub contribution streak" />
-
+<img width="75%" src="https://streak-stats.demolab.com?user=wickedceo&theme=dark&hide_border=true&background=09070D&ring=DC6673&fire=DC2626&currStreakLabel=DC6673" />
 </div>
 
-### ◈ CONTRIBUTION MATRIX
+CONTRIBUTIONS
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wickedceo&bg_color=09070D&color=E6E1ED&line=DC2626&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+⸻
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,100:030303&height=3&section=footer" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wickedceo&bg_color=09070D&color=E6E1ED&line=FF303F&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity" />
+WICKEDCEO
 
-</div>
+Still building. Still learning.
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF303F,50:450909,100:020204&height=3&section=footer" width="100%" />
-
-### WICKEDCEO
-
-**ENGINEERED TO CREATE.**
-
-*BUILT TO EVOLVE. DESIGNED TO TRANSCEND.*
-
-<sub>All original projects and intellectual property published under WICKEDCEO belong to WICKEDCEO unless otherwise stated. Repository-specific licenses apply.</sub>
+Projects, experiments and everything in between.
 
 </div>

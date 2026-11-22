@@ -43,28 +43,24 @@ Driven by curiosity, experimentation, and the pursuit of better engineering.
 
 <!-- PROJECTS:START -->
 - [**pulsewatch**](https://github.com/wickedceo/pulsewatch) — A full-stack website and API uptime monitoring platform built with JavaScript, Node.js, Express and PostgreSQL.
-
-  `Software` · Updated 2026-11-21
+  `JavaScript` · Updated 2026-11-22
 
 - [**WCKD**](https://github.com/wickedceo/WCKD)
-
   `Software` · Updated 2026-11-21
 
 - [**Wickedceo**](https://github.com/wickedceo/Wickedceo)
-
   `Software` · Updated 2026-11-21
 
-- [**DevBoard**](https://github.com/wickedceo/DevBoard) — Modern developer project management platform.
-
+- [**DevBoard**](https://github.com/wickedceo/DevBoard) — Modern developer project management platform
   `Software` · Updated 2026-11-11
 
 - [**HelpDesk-AI**](https://github.com/wickedceo/HelpDesk-AI) — An AI-assisted customer support and ticket management platform built with React and TypeScript.
-
   `TypeScript` · Updated 2026-11-10
 
 - [**authflow**](https://github.com/wickedceo/authflow) — A modern authentication system built with React, TypeScript and secure authentication workflows.
-
   `TypeScript` · Updated 2026-11-09
+
+[Explore all projects →](https://github.com/wickedceo?tab=repositories)
 <!-- PROJECTS:END -->
 
 <div align="center">

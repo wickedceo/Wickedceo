@@ -1,182 +1,150 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,45:180609,100:8B101D&height=230&section=header&text=WICKEDCEO&fontSize=68&fontColor=F5F0F0&fontAlignY=42&animation=fadeIn&stroke=DC2626&strokeWidth=1" width="100%" />
-
-<h3>SOFTWARE DEVELOPER</h3>
-
-<p>
-Building software. Solving problems. Engineering better experiences.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:030303,45:160408,100:8B101D&height=250&section=header&text=WICKEDCEO&fontSize=76&fontColor=F5F0F0&fontAlignY=40&animation=fadeIn&stroke=DC2626&strokeWidth=1&desc=INDEPENDENT%20SOFTWARE%20ENGINEERING&descSize=14&descColor=DC6673&descAlignY=63" width="100%" />
 
 <br />
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=DC6673&center=true&vCenter=true&width=550&lines=ENGINEERING+WITH+INTENTION.;BUILDING+BEYOND+THE+OBVIOUS.;DESIGN.+DEVELOP.+REFINE.;INDEPENDENTLY+BUILT.+CONTINUOUSLY+IMPROVED." alt="Developer philosophy" />
+
+<br /><br />
+
 <a href="https://github.com/wickedceo">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://github.com/wickedceo?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-8B101D?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+<img src="https://img.shields.io/badge/PROJECTS-8B101D?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## ABOUT
+<h2 align="left">01 / THE DEVELOPER</h2>
 
-I'm a software developer focused on building practical applications and understanding the engineering behind them.
+### Building software with purpose.
 
-My work revolves around web development, application architecture, authentication, backend systems, database design and solving real-world software problems.
+I'm a software developer interested in the architecture, logic and engineering that power modern applications.
 
-I enjoy taking ideas from concept to implementation, working through technical challenges and continuously improving the quality of what I build.
+I build web platforms, experiment with technologies and work through complex problems with a focus on functionality, reliability and maintainability.
 
-I believe good software should be functional, reliable, maintainable and thoughtfully designed.
+My approach is simple: understand the problem, engineer the solution and continuously improve the result.
 
-**Current focus:** Building independent software projects and strengthening my full-stack engineering skills.
+<br />
 
----
-
-## TECHNOLOGY STACK
+<h2 align="left">02 / TECHNICAL ARSENAL</h2>
 
 <div align="center">
 
-### LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=javascript,typescript,html,css" alt="Programming languages" />
-
-### FRONTEND
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite" alt="Frontend technologies" />
-
-### BACKEND AND DATABASE
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase" alt="Backend technologies" />
-
-### DEVELOPMENT TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Development tools" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,postgres,supabase,html,css,tailwind,vite,git,github,vscode&theme=dark" />
 
 </div>
 
----
+<br />
 
-## FEATURED PROJECTS
+<h2 align="left">03 / SELECTED ENGINEERING PROJECTS</h2>
 
-A selection of applications and engineering projects I'm developing.
+<p><code>PROJECT_001</code></p>
 
-### 01. PULSEWATCH
+<h3>PULSEWATCH</h3>
 
-**Website and API Monitoring Platform**
+**MONITORING / BACKEND / INFRASTRUCTURE**
 
-A monitoring platform designed to track website and API availability, monitor service health and provide visibility into uptime performance.
-
-**TECHNOLOGIES**
+Website and API uptime monitoring platform designed to track service availability and provide visibility into application health.
 
 `JavaScript` `Node.js` `Express` `PostgreSQL`
 
-<a href="https://github.com/wickedceo/pulsewatch">
-View Repository →
-</a>
+<a href="https://github.com/wickedceo/pulsewatch">EXPLORE PROJECT ↗</a>
 
 ---
 
-### 02. DEVBOARD
+<p><code>PROJECT_002</code></p>
 
-**Developer Project Management Platform**
+<h3>DEVBOARD</h3>
 
-A project management application designed to help developers organize projects, manage tasks and monitor development progress.
+**PRODUCTIVITY / PROJECT MANAGEMENT**
 
-<a href="https://github.com/wickedceo/DevBoard">
-View Repository →
-</a>
+A developer-focused project management platform built to organize projects, manage tasks and monitor development progress.
+
+<a href="https://github.com/wickedceo/DevBoard">EXPLORE PROJECT ↗</a>
 
 ---
 
-### 03. HELPDESK-AI
+<p><code>PROJECT_003</code></p>
 
-**AI-Assisted Customer Support Platform**
+<h3>HELPDESK-AI</h3>
 
-A customer support and ticket management application focused on organizing support requests and exploring AI-assisted workflows.
+**ARTIFICIAL INTELLIGENCE / CUSTOMER SUPPORT**
 
-**TECHNOLOGIES**
+An AI-assisted customer support and ticket management platform focused on organizing support workflows.
 
 `React` `TypeScript`
 
-<a href="https://github.com/wickedceo/HelpDesk-AI">
-View Repository →
-</a>
+<a href="https://github.com/wickedceo/HelpDesk-AI">EXPLORE PROJECT ↗</a>
 
 ---
 
-### 04. AUTHFLOW
+<p><code>PROJECT_004</code></p>
 
-**Authentication and Identity Management**
+<h3>AUTHFLOW</h3>
 
-A modern authentication project focused on implementing secure authentication workflows and building reliable application access systems.
+**AUTHENTICATION / APPLICATION SECURITY**
 
-**TECHNOLOGIES**
+An authentication project focused on secure application access and reliable identity workflows.
 
 `React` `TypeScript`
 
-<a href="https://github.com/wickedceo/authflow">
-View Repository →
-</a>
+<a href="https://github.com/wickedceo/authflow">EXPLORE PROJECT ↗</a>
 
 ---
 
-### 05. BUGTRACK
+<p><code>PROJECT_005</code></p>
 
-**Bug Tracking and Issue Management Platform**
+<h3>BUGTRACK</h3>
 
-An issue management application designed to help development teams document bugs, organize reported issues and track their progress throughout the development lifecycle.
+**ISSUE MANAGEMENT / SOFTWARE QUALITY**
 
-<a href="https://github.com/wickedceo/bugtrack">
-View Repository →
-</a>
+A bug tracking and issue management platform designed to document bugs, organize reports and track issue resolution.
+
+<a href="https://github.com/wickedceo/bugtrack">EXPLORE PROJECT ↗</a>
 
 ---
 
-## GITHUB STATISTICS
+<h2 align="left">04 / GITHUB INTELLIGENCE</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=wickedceo&show_icons=true&hide_border=true&bg_color=09070D&title_color=DC6673&icon_color=DC6673&text_color=E6E1ED&rank_icon=github" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=wickedceo&show_icons=true&hide_border=true&bg_color=09070D&title_color=DC6673&icon_color=DC6673&text_color=E6E1ED&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wickedceo&layout=compact&hide_border=true&bg_color=09070D&title_color=DC6673&text_color=E6E1ED" alt="Most used programming languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wickedceo&layout=compact&hide_border=true&bg_color=09070D&title_color=DC6673&text_color=E6E1ED" />
 
 <br /><br />
 
-<img width="75%" src="https://streak-stats.demolab.com?user=wickedceo&theme=dark&hide_border=true&background=09070D&ring=DC6673&fire=DC2626&currStreakLabel=DC6673" alt="GitHub contribution streak" />
+<img width="75%" src="https://streak-stats.demolab.com?user=wickedceo&theme=dark&hide_border=true&background=09070D&ring=DC6673&fire=DC2626&currStreakLabel=DC6673" />
+
+</div>
+
+<br />
+
+<h2 align="left">05 / CONTRIBUTION FOOTPRINT</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wickedceo&bg_color=09070D&color=E6E1ED&line=DC2626&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-## CONTRIBUTION ACTIVITY
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wickedceo&bg_color=09070D&color=E6E1ED&line=DC2626&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution graph" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B101D,100:030303&height=4&section=footer" width="100%" />
 
-</div>
+<br />
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=WICKEDCEO&fontSize=38&fontColor=E6E1ED&fontAlignY=55" width="100%" />
 
-## FIND ME ON GITHUB
+**ENGINEERED WITH INTENTION.**
 
-<div align="center">
-
-<a href="https://github.com/wickedceo">
-<img src="https://img.shields.io/badge/FOLLOW%20MY%20WORK-8B101D?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
-</a>
-
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B101D,100:050505&height=3&section=footer" width="100%" />
-
-<h3>WICKEDCEO</h3>
-
-<p><i>Built with curiosity. Driven by engineering.</i></p>
-
-<sub>Independent development. Continuous improvement.</sub>
+<sub>Independent development / Continuous evolution</sub>
 
 </div>
